@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 -->
 <i>
 <ul>
-        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
-        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision.</li>
+        <li>🔭 Machine Learning and DevOps.</li>
+        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, DevOps.</li>
         <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/rizkiaibar">LinkedIn</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/rizki-aibar">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I love to automate my tasks with programming.</li>
 </ul>
 </i>
 
 ### Connect with me:
 
-[<img align="left" alt="rizkiaibar | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rizki-aibar | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rizkiaibar | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
   ## Github Stats
   <a href="https://github.com/ryzki">
-    <img align="center" alt="Mahesh Sawant Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryzki&show_icons=true&theme=tokyonight">
+    <img align="center" alt="Rizki Aibar Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryzki&show_icons=true&theme=tokyonight">
   </a>
 </div>
 
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 </details>
 
 [youtube]: https://www.youtube.com/rizkiaibar
-[linkedin]: https://linkedin.com/in/rizkiaibar
+[linkedin]: https://linkedin.com/in/rizki-aibar
