@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Keras" width="80px" src="https://keras.io/img/logo.png" />
-<img align="left" alt="OpenCV" width="30px" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />
 <img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -81,6 +80,3 @@ Here are some ideas to get you started:
 </div>
 
 </details>
-
-[youtube]: https://www.youtube.com/rizkiaibar
-[linkedin]: https://linkedin.com/in/rizki-aibar
