@@ -1,4 +1,4 @@
-### Hi Friends, I am Rizki Aibar <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
+### Hi Friends, I am Ryzki <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
 
 ## I'm a self taught Network Engineer & DevOps.
 
